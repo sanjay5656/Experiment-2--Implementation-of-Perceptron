@@ -133,7 +133,7 @@ plt.show()
 
 # Dataset
 
-![image](https://user-images.githubusercontent.com/115128955/231058827-da2106aa-e9e5-40de-9234-3169eacb6236.png)
+![image](https://user-images.githubusercontent.com/115128955/231507190-899f6c3e-235a-4f0c-b142-ba5962e4bb95.png)
 
 # Scatter Plot:
 
